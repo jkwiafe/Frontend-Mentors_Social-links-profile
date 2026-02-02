@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/jkwiafe/Frontend-Mentors_Social-links-profile.git](https://github.com/jkwiafe/Frontend-Mentors_Social-links-profile.git)
+- Live Site URL: [https://frontendmentorssociallinksprofile.netlify.app](https://frontendmentorssociallinksprofile.netlify.app)
 
 ## My process
 
@@ -60,6 +60,5 @@ I still have some challenges with the flexbox, flex, block... that kinda thing..
 
 ## Author
 
-- Website - [Joseph Kwaku Wiafe](https://www.your-site.com)
 - Frontend Mentor - [@jkwaife](https://www.frontendmentor.io/profile/jkwiafe)
 - Instagram - [@jkwiafe](https://www.instagram.com/jk.wiafe)
