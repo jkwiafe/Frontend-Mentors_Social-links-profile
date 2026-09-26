@@ -15,8 +15,6 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
   - [Useful resources](#useful-resources)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### The challenge
@@ -33,7 +31,8 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/jkwiafe/Frontend-Mentors_Social-links-profile.git](https://github.com/jkwiafe/Frontend-Mentors_Social-links-profile.git)
-- Live Site URL: [https://frontendmentorssociallinksprofile.netlify.app](https://frontendmentorssociallinksprofile.netlify.app)
+- Live Site URL: 1. [https://frontendmentorssociallinksprofile.netlify.app]([https://frontendmentorssociallinksprofile.netlify.app])
+ 2. ([https://jkwiafe.github.io/Frontend-Mentors_Social-links-profile](https://jkwiafe.github.io/Frontend-Mentors_Social-links-profile/))
 
 ## My process
 
