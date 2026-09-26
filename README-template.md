@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.png)
+![](./screenshot.jpeg)
 
 *Screenshot of my finished solution.*
 
